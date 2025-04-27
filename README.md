@@ -25,6 +25,8 @@ Adding grids (optional)
 
 Choosing type of graph(Bar chart, pie chart)
 
+Naming of the axes
+
 Having error handling with the help of AI and ML
 
   Intelligent Error Handling:
